@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/Cortext"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/Replete"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/RepleteExternals"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/RepletePipeline"/>
+	<classpathentry kind="lib" path="lib/jpedal-4.92/jpedal_lgpl.jar" sourcepath="lib/jpedal-4.92/jpedal-lgpl-4.92b23-sources.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="/Cortext/lib/tika-app-1.14/tika-app-1.14.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
